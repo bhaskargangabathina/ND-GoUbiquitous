@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/ND-GoUbiquitous/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/techjini/Desktop/nanodegree/ND-GoUbiquitous/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_ea13a6af20757ec2138ca86804758565b02c065e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_0bb957ad88d1c3b87657b0acdd0545c61af13329.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/ND-GoUbiquitous/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/techjini/Desktop/nanodegree/ND-GoUbiquitous/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_62d371717b35586cc87056f200a8288b08a112fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_d9e96cf2213a275fc8aab2b6150bd11609bc5647.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="a5da6fc5a6f39aee309ae6ae670e1b942759dc51">
+        <dex dex="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-9.6.0_74951c83a8e00eb3c81e977266158c9ada1e86d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_84b1d6b21b0c4a51c77cdac645e971d364550454.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/ND-GoUbiquitous/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/techjini/Desktop/nanodegree/ND-GoUbiquitous/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_b7ae251b400f2e18ad206c534176d708a80ffebb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_8ad1c39f8489b251563160bbb69929eb60f0333e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="93a0248fe0524b4fa2d16f5f7c3cff8452796454">
+        <dex dex="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.6.0_973c4ca0b2b40b60c47633bbecab549c4cb5db90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-24.2.1_667ab0f92fc19fdd9daf3aa773cecb7e107bb854.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4e6470fe5081bd76bb727ea9d0d9de373ac5940b">
+        <dex dex="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/pre-dexed/debug/com.android.support-gridlayout-v7-24.2.1_8e1128ed0a5ce976429494e237260ab15cc0213a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_bdf4ee605cd49d33df8d939ff52a68f474552882.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_d181adc725cf4be8304adc69b82259ff8a1fc054.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/ND-GoUbiquitous/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/techjini/Desktop/nanodegree/ND-GoUbiquitous/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_48ffcf0ce19af69cda362fbbcfe62fb4ab813444.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/ND-GoUbiquitous/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="12e94600a0ea3beae6ea0f1d18a0768ded5bc1ae">
+        <dex dex="/home/techjini/Desktop/nanodegree/ND-GoUbiquitous/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-9.6.0_92ca7086d27876f11c37cd19a63a15c8f243d024.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_4f19763b6d56f66a42493f2b5b3397ab710970e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/ND-GoUbiquitous/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="f6afcfbf1989631424f9ceaae6ee24777d3cf6ba">
+        <dex dex="/home/techjini/Desktop/nanodegree/ND-GoUbiquitous/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.6.0_0f96ef14e7e43c69142fac1eced8f5d3e6136e34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/ND-GoUbiquitous/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="614b2ffd04818e865e1c02cc149c6b92e518e862">
+        <dex dex="/home/techjini/Desktop/nanodegree/ND-GoUbiquitous/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.6.0_5e703e191933f917ee2f6f382f1e4d614c12af1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/ND-GoUbiquitous/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/techjini/Desktop/nanodegree/ND-GoUbiquitous/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_813c37e72286740c7fb76b7b031bceef543e73c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/ND-GoUbiquitous/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/techjini/Desktop/nanodegree/ND-GoUbiquitous/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_ae34d0dbfcb275ae380c62e7374067e6e43f8180.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_39e538cdb87d714f0e7456b0eefbde771517ac9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/ND-GoUbiquitous/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/techjini/Desktop/nanodegree/ND-GoUbiquitous/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_9273b56d108c26e4e0f7df896341358c83545552.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.5.2/ecf534dba3a8446ce84cbb797d314763be212a68/glide-3.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/pre-dexed/debug/glide-3.5.2_5781354ea2914d50d58a611d3102c1e2ea4ec37d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/ND-GoUbiquitous/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="a5da6fc5a6f39aee309ae6ae670e1b942759dc51">
+        <dex dex="/home/techjini/Desktop/nanodegree/ND-GoUbiquitous/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-9.6.0_580b281f1f09be9e5d1fee4f102998e5155d1b98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/ND-GoUbiquitous/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="93a0248fe0524b4fa2d16f5f7c3cff8452796454">
+        <dex dex="/home/techjini/Desktop/nanodegree/ND-GoUbiquitous/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.6.0_eb5cd349938c1843822cef81bbe20cdbf726249b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/ND-GoUbiquitous/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/techjini/Desktop/nanodegree/ND-GoUbiquitous/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_d8702ca0cd1cb0b8ad286d8da8bae51bb6c7ae3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/ND-GoUbiquitous/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="ce5313bb5ccc0c1e10c995e4efb2f2b08c848b39">
+        <dex dex="/home/techjini/Desktop/nanodegree/ND-GoUbiquitous/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-9.6.0_895b5eb0300d0eca642f4283b3a9e6823531f2fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="f6afcfbf1989631424f9ceaae6ee24777d3cf6ba">
+        <dex dex="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.6.0_37a8a4400ae498dd3d078fd10513a88186daa10c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/exploded-aar/NanoDegree-Go-Ubiquitous-master/common/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="dc48835bc7b3b645bcd4787fcf7194ee8d81c489">
+        <dex dex="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/pre-dexed/debug/NanoDegree-Go-Ubiquitous-master-common-unspecified_e85be9ec7f0e161988aaf8e798157b5c8e942852.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="614b2ffd04818e865e1c02cc149c6b92e518e862">
+        <dex dex="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.6.0_87bb3fd4974bca72a1a557cc85615409767bc21f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_b136ce47e2e32b8394da0c4fcc45f651e7c9006f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/ND-GoUbiquitous/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/techjini/Desktop/nanodegree/ND-GoUbiquitous/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_bf9ae6247325e8cb1f8db7d188b1ce72a3f08ef0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/.gradle/caches/modules-2/files-2.1/com.google.android.apps.muzei/muzei-api/2.0/ea86be2a201e6ad86dacffe774dbc6d89fcb0c92/muzei-api-2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="ea86be2a201e6ad86dacffe774dbc6d89fcb0c92">
+        <dex dex="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/pre-dexed/debug/muzei-api-2.0_2719fd9a5c49147a19cfef671e3e7c58ed7685c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/ND-GoUbiquitous/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/techjini/Desktop/nanodegree/ND-GoUbiquitous/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_dd4a5c07a378dda077acbe716d1c1858540525ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_0383a394ea0284211d40492fb3cf7a06b5989789.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_f0580562b575213dc4ba1e63b96a530e4e96f457.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/ND-GoUbiquitous/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/techjini/Desktop/nanodegree/ND-GoUbiquitous/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_60b1d7fd07486e957507f15995fc0d81ac96bae1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/ND-GoUbiquitous/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/home/techjini/Desktop/nanodegree/ND-GoUbiquitous/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-24.2.1_28844618ace742da5366e771d8f6d3d349ced72d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/ND-GoUbiquitous/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4e6470fe5081bd76bb727ea9d0d9de373ac5940b">
+        <dex dex="/home/techjini/Desktop/nanodegree/ND-GoUbiquitous/app/build/intermediates/pre-dexed/debug/com.android.support-gridlayout-v7-24.2.1_f46f909e905f2b3db33174bdcaf8b84184aa7048.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_6bc4c6cd82f84eed2723095a16731a51b0d9cccc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/ND-GoUbiquitous/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/techjini/Desktop/nanodegree/ND-GoUbiquitous/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_798b1abd4ba99263f3caf121c43bb30c084fede5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/ND-GoUbiquitous/app/build/intermediates/exploded-aar/ND-GoUbiquitous/common/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="dc48835bc7b3b645bcd4787fcf7194ee8d81c489">
+        <dex dex="/home/techjini/Desktop/nanodegree/ND-GoUbiquitous/app/build/intermediates/pre-dexed/debug/ND-GoUbiquitous-common-unspecified_1e52d40a1c7e5f20de797f67f385bb11215f4c74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/ND-GoUbiquitous/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/techjini/Desktop/nanodegree/ND-GoUbiquitous/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_5058dc49491b9d85c2df49280ab56c4acc5726a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_9a63554f3366d0dda512baad446c5873e2508e80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_2304723ea640a07086fb8b2932dcccacfcc3a465.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/ND-GoUbiquitous/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/techjini/Desktop/nanodegree/ND-GoUbiquitous/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_3987882cf00b497e99378f84e16682b819eaadf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="ce5313bb5ccc0c1e10c995e4efb2f2b08c848b39">
+        <dex dex="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-9.6.0_ee07590288792516ff1d25606230dc0ece439c84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/ND-GoUbiquitous/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/techjini/Desktop/nanodegree/ND-GoUbiquitous/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_d1f2eea4a0efe97ede0be6f078dc3037647030f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_da7fccdc79f3b2b18f36fbae0efe5c71c2edb92f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_3608b436460491da869908ca6e6a61f38a537f8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="12e94600a0ea3beae6ea0f1d18a0768ded5bc1ae">
+        <dex dex="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-9.6.0_00749297b3e70aa1e7794044f50e5ec274766c44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/ND-GoUbiquitous/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/techjini/Desktop/nanodegree/ND-GoUbiquitous/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_6aabfb1508e1167fe9268363901ce9106d5c611b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/techjini/Desktop/nanodegree/satya/NanoDegree-Go-Ubiquitous-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_34c33143b8280eff35e21cf98206dd425c9220b2.jar" />
+    </item>
+
+</items>
